@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/sr_8082bb3381.webp
 title: "asteroid with GameMaker"
 date: 2020
 published: true
