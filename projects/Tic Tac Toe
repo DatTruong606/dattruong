@@ -1,0 +1,13 @@
+---
+layout: project
+type: project
+image: img/sr_8082bb3381.webp
+title: "TicTacToe"
+date: 2024
+published: true
+labels:
+  - C++
+summary: "A simple text-based TicTacToe coded in C."
+---
+
+During Spring 2024, I took ICS212 where I learned C and C++. Being quite uncomfortable with C++, I decided to code something simple in order to enhance my knowledge in it. It contained classes, recursion, vector, and others. You can play with two players or with a CPU using a minimax algorithm. 
