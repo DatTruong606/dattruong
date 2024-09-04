@@ -6,8 +6,7 @@ title: "asteroid with GameMaker"
 date: 2020
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - GameMaker
 summary: "An Asteroid-like game that I created using GameMaker and their tutorial."
 ---
 
