@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/sr_8082bb3381.webp
-title: "asteroid with GameMaker"
+title: "Asteroid with GameMaker"
 date: 2020
 published: true
 labels:
