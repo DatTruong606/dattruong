@@ -8,7 +8,7 @@ labels:
   - Software Engineering
 ---
 
-## About Myself and Software Engineering
+### About Myself and Software Engineering
 
 There any many skills that I have learned so far in computer science but there are still so much more for me to learn. For example, learning Java, C, C++, and a bit of Python made me thought that almost all langauges are the same in coding. They may have different syntaxes, functions, and libraries but in the end, they all operate the same and create the same product in the end. However, after learning HTML and CSS over the summer of 2024, it had made me realized that front-end development was something that was completely different than what I had imagined. It is geared toward designing therefore it look a lot less "functional" and more "messy."
 
