@@ -12,4 +12,4 @@ labels:
 summary: "A web-based Sudoku with minimal design and function."
 ---
 
-As a way to prepare for ICS314, I wanted to learn a bit about front-end development over the summer. This project was meant for me to get used to HTML and CSS as those were something I have never utilized before. Through it, I have learned about creating divs through JavaScript, how to connect elements between the three, and the frustation in designing with CSS.
+As a way to prepare for ICS314, I wanted to learn a bit about front-end development over the summer. This project was meant for me to get used to HTML and CSS as those were something I have never utilized before. Through it, I have learned about creating divs through JavaScript, how to connect elements between the three, and the frustation in designing with CSS. This was my first time using JavaScript and learning to let go of static-typed variables. 
