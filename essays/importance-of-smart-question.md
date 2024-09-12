@@ -1,3 +1,14 @@
+---
+layout: essay
+type: essay
+title: "Importance of Smart Questions"
+date: 2024-09-11
+published: true
+labels:
+  - StackOverflow
+  - Community
+---
+
 ## Asking Better Questions
   While our teachers used to say there are no dumb questions, that does not mean you should not ask better questions. Very basic and mundane questions can be answered easily through a quick google search. It is better to ask questions after you have dedicated some time researching about your topic. This shows that you are actually caring to putting the time out to find the solution rather than wanting answers being spoonfed to you. 
 
