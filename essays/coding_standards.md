@@ -8,7 +8,9 @@ labels:
   - Coding Standards
   - Community
 ---
-<img src="../img/lint.avif" style="width:40%;height:40%;">
+<img src="../img/lint.avif" style="width:35%;height:35%;">
+
+<hr>
 
 ## Practicing Coding Standards 
 
