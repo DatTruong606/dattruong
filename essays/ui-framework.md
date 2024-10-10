@@ -11,7 +11,7 @@ labels:
   - CSS
   - Bootstrap 5
 ---
-<img src="../img/islandsnow.png" alt="Using Bootstrap">
+<img src="../img/image.png" alt="Using Bootstrap" style="width:70%;height:auto;">
 
 <hr>
 
@@ -24,7 +24,7 @@ Frameworks also have a large community that supports the development of the fram
 
 <img src="../img/browserhistory.png" alt="Without UI Frameworks" style="width:70%;height:auto;">
 
-##How it is going
+## How it is going
 My personal experience with Bootstrap is by far, better than HTML. Documentations are easy to use and a lot of tools are intuitive and easy to understand. Using Bootstrap so far has been less reliant on CSS, since a lot of parameters can be set in the HTML file. Setting things like columns are easier than pure HTML with the use of "row" and "col". Adding company icons is made easy using Bootstrap's own library, so there is no need to download and import pictures. It seems like managing design elements like images, footers, and navigation bars are made easier with Bootstrap. 
 
 In the future, I want to explore and use other frameworks to see what they provide compared to Bootstrap. I think pure HTML and CSS will not get you very far in web design, at least in the industry. Being able to use a framework efficiently will increase productivity because you are not reinventing the wheel every project. 
