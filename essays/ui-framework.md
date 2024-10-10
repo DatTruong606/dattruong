@@ -11,7 +11,7 @@ labels:
   - CSS
   - Bootstrap 5
 ---
-<img src="img/islandsnow.png" alt="Using Bootstrap">
+<img src="../img/islandsnow.png" alt="Using Bootstrap">
 
 <hr>
 
@@ -22,7 +22,7 @@ Frameworks also have a large community that supports the development of the fram
 
 <hr>
 
-<img src="img/browserhistory.png" alt="Without UI Frameworks" style="width:35%;height:35%;">
+<img src="../img/browserhistory.png" alt="Without UI Frameworks" style="width:70%;height:auto;">
 
 ##How it is going
 My personal experience with Bootstrap is by far, better than HTML. Documentations are easy to use and a lot of tools are intuitive and easy to understand. Using Bootstrap so far has been less reliant on CSS, since a lot of parameters can be set in the HTML file. Setting things like columns are easier than pure HTML with the use of "row" and "col". Adding company icons is made easy using Bootstrap's own library, so there is no need to download and import pictures. It seems like managing design elements like images, footers, and navigation bars are made easier with Bootstrap. 
