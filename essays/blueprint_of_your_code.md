@@ -11,7 +11,7 @@ labels:
 
 <hr>
 
-## An Approach to Common Problems
+## A Approach to Common Problems
 
 At first, the concept of design pattern is strikingly similar to that of coding standards. They both practice an organized structure code, with ease of use, and efficientcy.
 However, while coding standards focuses on the smaller part of the structured code, design patterns impact the scalability and efficiency of the code. Unlike coding standards, design patterns
@@ -21,7 +21,7 @@ Design pattern is a systematic way of dealing with reoccuring problems by using 
 classes and objects. OOP could also be seen as a design pattern itself, where instead of creating a function everytime you want to make a circle, you can create a circle object and reuse that everytime. The commnunity 
 has even further improved on this approach by creating many different design patterns that complements the features of OOP. One such design pattern is the Singleton Pattern, where only one instance of a class exists and it can be accessed anywhere within the code.
 
-<image src""/>
+<img src="../img/designpattern.png" width="50%" />
 
 ## My Spin on the General Blueprint
 
