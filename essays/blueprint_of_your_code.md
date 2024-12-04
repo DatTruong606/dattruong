@@ -9,8 +9,6 @@ labels:
   - Coding Standards
 ---
 
-<hr>
-
 ## A Approach to Common Problems
 
 At first, the concept of design pattern is strikingly similar to that of coding standards. They both practice an organized structure code, with ease of use, and efficientcy.
