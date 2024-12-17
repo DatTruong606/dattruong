@@ -9,6 +9,8 @@ labels:
   - Reflection
 ---
 
+<img src="...img/ChatGPT-Logo.png" />
+
 ## Introduction
 
 In education, artificial intelligence (AI), is meant to aid the learner in addition to the teacher. We want AI to help students ask questions and be engage in the material. It has become a quick and convenient alternative to googling. Regarding software engineering in particular, the use of AI can help reduce redundant code and a gateway to alternative methods. In ICS314, I have used ChatGPT and Github Copilot, both in helping me learn the new material and in speeding up the process of coding. Furthermore, it has helped me by explaining complicated code in TypeScript when I was learning it for the first time. 
