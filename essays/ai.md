@@ -8,7 +8,6 @@ labels:
   - AI
   - Reflection
 ---
-<img src=">
 
 ## Introduction
 
