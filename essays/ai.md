@@ -9,13 +9,17 @@ labels:
   - Reflection
 ---
 
-<img src="...img/ChatGPT-Logo.png" />
+
 
 ## Introduction
+
+<img src="../img/ChatGPT-Logo.png" width=20%/>
 
 In education, artificial intelligence (AI), is meant to aid the learner in addition to the teacher. We want AI to help students ask questions and be engage in the material. It has become a quick and convenient alternative to googling. Regarding software engineering in particular, the use of AI can help reduce redundant code and a gateway to alternative methods. In ICS314, I have used ChatGPT and Github Copilot, both in helping me learn the new material and in speeding up the process of coding. Furthermore, it has helped me by explaining complicated code in TypeScript when I was learning it for the first time. 
 
 ## Personal Experiences
+
+<img src="../img/GitHub_Copilot_logo.svg.png" width=35% />
 
 Many times have I reluctantly used ChatGPT for help during my in-class WODs. I thought that those experiences were a way for me to test my comprehension of the class. For both in-class practice WODs and homeworks, ChatGPT was used to explain new concepts in detail and run sample and why it works. All of my essays are also written without AI since I prefer writting them my self. However, the final project has definitely seen an increased in AI usage. Since I was very ambitious for my final project, I installed Copilot in order to help me with writting redundant code and tell me how to implement different features that I had wanted. Since then, I have defaulted to ChatGPT whenever I have any questions. Most of the time, I try to learn about new materials from the source rather than the internet. Also in general, I try to read the documentation of the tools I am using and only use AI to write a sample to my relevant code. I like that whenever I ask it to write code, it will explain anything completed about the code and the general function of the code. However, rarely do I ever use it to document code since I will remember the code better if document it my self. And instead of using AI to check my code for errors and the like, I prefer to ask it to optimze my code because I want to know what better ways for me to improve my code in the future. Outside of coding and general questions, I do not use ChatGPT or AI since I had always prefer googling about issues and knowing where my source of information comes from.
 
