@@ -14,7 +14,6 @@ summary: "A website designed to help international students understand what food
 ---
 <img src="../img/ManoaMenu.png" width=800/>
 [For my final group project](https://manoa-menu.vercel.app/), I grouped up with 4 others and we decided to work designing a website for uses translation and external data so that we can do API calls. We chose to do something with external data so that we can do API calls and fetch it. The Campus Center Food Court was perfect since their weekly menu is in the form of a pdf. We also wanted to do translation so that we can use ChatGPT API call. As we continued through the development, we added many new features, like the location of these restaurants, as well as dropped a lot of them. The recommendation part of the website in the dashboard is not working as fully intended because I had ran out of time. We are happy for what we have created and most of us had agreed to further develope this website even after this course is finished.
-<br/><br/>
 
 <img src="../img/dashboard-EN.png" width=800/>
 My major contribution in this project is the dashboard page. This page function as the main user page, displaying food during the week as well as some recommendation. This page also supports other languages, which for now is just Japanese. The page could be divided into 3 parts, the form selectors, Calendar, and Recommended. Each part of call for a lot of information as well as adding and removing items from the database. But before we look into these components, lets look at the dashboard from conception to finished. 
